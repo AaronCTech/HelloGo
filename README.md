@@ -16,6 +16,6 @@ To run the application, open your favorite command line tool (CMD/Powershell/Bas
 
 ## Building an executable
 
-To build a binary, run "go build ." from the HelloGo directory, and you will see a new file "main.exe" appear if you are on Windows, or "main" appear on Linux. These are standalone applications, and can be executed on ANY system without the need to install any dependencies.
+To build a binary, run "go build ." from the HelloGo directory, and you will see a new file "HelloGo.exe" appear if you are on Windows, or "HelloGo" appear on Linux. These are standalone applications, and can be executed on ANY system without the need to install any dependencies.
 
 It should be noted that it is possible via command arguments to build Linux binaries from Windows, and vice versa!
