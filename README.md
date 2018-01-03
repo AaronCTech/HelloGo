@@ -8,7 +8,7 @@ A simple Hello World application written in Go.
 
 ## Getting Started
 
-run "git clone https://github.com/AaronCTech/HelloGo.git" in your favorite project directory on your computer to get.
+run "git clone https://github.com/AaronCTech/HelloGo.git" in your favorite project directory on your computer to download the project. GitHub will also allow a direct download via a zip file from the project.
 
 ## Running the application
 
